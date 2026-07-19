@@ -4,7 +4,7 @@ register_repository(
   REPOSITORY
     HdrHistogram/HdrHistogram_c
   COMMIT
-    8dcce8f68512fca460b171bccc3a5afce0048779
+    18c7a324383dded1451d15621cd018b0048057d0
 )
 
 register_cmake_command(
